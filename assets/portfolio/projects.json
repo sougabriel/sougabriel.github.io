@@ -1,0 +1,62 @@
+[
+	{
+		"imgUrl": "/assets/images/projects/ifmaker-system.svg",
+		"imgAlt": "Project Image",
+		"title": "IFMaker System",
+		"descrition": "An system of material management and access control for Federal Institute Farroupilha maker laboratories",
+		"keywords": [
+			"Angular",
+			"Typescript",
+			"RXJS",
+			"Progressive Web Application (PWA)"
+		],
+		"gitRepository": "https://github.com/sougabriel/ifmaker-system",
+		"projectView": ""
+	},
+	{
+		"imgUrl": "/assets/images/projects/ifmaker-api.svg",
+		"imgAlt": "Project Image",
+		"title": "IFMaker API",
+		"descrition": "A RESTful Application Programming Interface (API) for Federal Institute Farroupilha maker laboratories system",
+		"keywords": ["MySQL", "Javascript", "ExpressJS", "Sequelize"],
+		"gitRepository": "https://github.com/sougabriel/ifmaker-api",
+		"projectView": ""
+	},
+	{
+		"imgUrl": "/assets/images/projects/space-dagger.png",
+		"imgAlt": "Project Image",
+		"title": "SpaceDagger",
+		"descrition": "A simple pixelart rhythm game of spaceships made with Javascript and JQuery.",
+		"keywords": ["Javascript", "JQuery", "CSS", "Web Game"],
+		"gitRepository": "https://github.com/sougabriel/spaceDagger-js",
+		"projectView": ""
+	},
+	{
+		"imgUrl": "/assets/images/projects/simple-calculator-js.png",
+		"imgAlt": "Project Image",
+		"title": "Simple Calculator Js",
+		"descrition": "A simple calculator made with pure Javascript and not using eval function.",
+		"keywords": ["Javascript", "HTML", "CSS"],
+		"gitRepository": "https://github.com/sougabriel/simple-calculator-js",
+		"projectView": "",
+		"disable": false
+	},
+	{
+		"imgUrl": "/assets/images/projects/bmi-calculator.png",
+		"imgAlt": "Project Image",
+		"title": "BMI Calculator",
+		"descrition": "A simple page for calculate BMI using AngularJS and Bootstrap.",
+		"keywords": ["Javascript", "AngularJS", "Bootstrap"],
+		"gitRepository": "https://github.com/sougabriel/BMI-CalculatorJs",
+		"projectView": ""
+	},
+	{
+		"imgUrl": "/assets/images/projects/directory-php.png",
+		"imgAlt": "Project Image",
+		"title": "Directory View PHP",
+		"descrition": "This is a php index file to customize your user or php web server. This code will list all folders in your base server directory.",
+		"keywords": ["PHP", "CSS", "Localhost"],
+		"gitRepository": "https://github.com/sougabriel/index-phpserver",
+		"projectView": ""
+	}
+]

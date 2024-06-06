@@ -1,0 +1,119 @@
+{
+  "configVersion": 1,
+  "timestamp": 1717707620149,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-36XOIHQN.js",
+        "/chunk-QO3WOLUP.js",
+        "/index.html",
+        "/main-RNKYBTBZ.js",
+        "/manifest.webmanifest",
+        "/polyfills-RX4V3J3S.js",
+        "/styles-X3BQIFX5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/fonts/material-icons.woff2",
+        "/assets/icons/icon-16x16.png",
+        "/assets/icons/icon-32x32.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/main_skills/angular.svg",
+        "/assets/icons/main_skills/git.svg",
+        "/assets/icons/main_skills/java.svg",
+        "/assets/icons/main_skills/mysql.svg",
+        "/assets/icons/main_skills/nestjs.svg",
+        "/assets/icons/main_skills/nodejs.svg",
+        "/assets/icons/main_skills/php.svg",
+        "/assets/icons/main_skills/postgresql.svg",
+        "/assets/icons/main_skills/python.svg",
+        "/assets/icons/main_skills/typescript.svg",
+        "/assets/images/profile.webp",
+        "/assets/images/projects/bmi-calculator.png",
+        "/assets/images/projects/directory-php.png",
+        "/assets/images/projects/ifmaker-api.svg",
+        "/assets/images/projects/ifmaker-system.svg",
+        "/assets/images/projects/simple-calculator-js.png",
+        "/assets/images/projects/space-dagger.png",
+        "/assets/portfolio/certifications.json",
+        "/assets/portfolio/education.json",
+        "/assets/portfolio/experiences.json",
+        "/assets/portfolio/projects.json",
+        "/media/material-icons-LEZCGFVT.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/fonts/material-icons.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
+    "/assets/icons/icon-16x16.png": "6a8c6f377c897bcf3c84c865cb1038affeaf09d0",
+    "/assets/icons/icon-32x32.png": "96cf1cf853f2ff91b1ec90bbc256cc171da2efde",
+    "/assets/icons/icon-72x72.png": "43df880b6ce3a7f1a81d85333f8f0c0f5ab40ae8",
+    "/assets/icons/icon-96x96.png": "2acad8367f3389a2c9f4a1df103cef2d0d956669",
+    "/assets/icons/main_skills/angular.svg": "e04dd2f8b17271516df2d6b2cc8f1446d631f49c",
+    "/assets/icons/main_skills/git.svg": "9fc20305f5ef784e427fdcb646461b02e7c47521",
+    "/assets/icons/main_skills/java.svg": "3cede983970aafcd22b35febe258d438732c7933",
+    "/assets/icons/main_skills/mysql.svg": "8bb5907f4c9410d7b395f3c9ef9dcd4d9d392243",
+    "/assets/icons/main_skills/nestjs.svg": "00319d0f671378863a3bb43485996575723fcc64",
+    "/assets/icons/main_skills/nodejs.svg": "f32f5f65c9e4452a9ed37a1ddfba114d7efd68f8",
+    "/assets/icons/main_skills/php.svg": "1079f47952aed4f345fe3cdc5b198bfd284ebab6",
+    "/assets/icons/main_skills/postgresql.svg": "c5052e84646103c13b0beb6ec57b60c34e1defd8",
+    "/assets/icons/main_skills/python.svg": "f7dff558c7d788bb558532681a611f304cc36ee6",
+    "/assets/icons/main_skills/typescript.svg": "8044806a0445c01750c2e08574dfe89a3cca99af",
+    "/assets/images/profile.webp": "faab19f19289b5554e97b339100a8e11d6c44945",
+    "/assets/images/projects/bmi-calculator.png": "fc20501e91898dbd962be503c81b01f5e4b313c5",
+    "/assets/images/projects/directory-php.png": "6dc89ba560a689752f22b0719c4f75eb8e1d1181",
+    "/assets/images/projects/ifmaker-api.svg": "478ee4d92f70f391af0a9880d2e6a7205e7c06cc",
+    "/assets/images/projects/ifmaker-system.svg": "ca51493e9397a6cfc042d06a9c8fa1e086ecae8f",
+    "/assets/images/projects/simple-calculator-js.png": "1a7f9faf0341a88328496555af6c5b426e970293",
+    "/assets/images/projects/space-dagger.png": "165856e93c4a5d0220f58085b35c1f0ec1859cbd",
+    "/assets/portfolio/certifications.json": "814eb21ca675c8c7c021b00c59c0145e810a1f12",
+    "/assets/portfolio/education.json": "ccc3c8e99c21ee86b2b906b3a0b9759c107f1237",
+    "/assets/portfolio/experiences.json": "c419b797fce468777312b8ce5f0acaf8ee781216",
+    "/assets/portfolio/projects.json": "181bbff0f924b0310d8af3f361503a58a978f513",
+    "/chunk-36XOIHQN.js": "fd33121b04fb6290d315e40efb2ca79df047c6f2",
+    "/chunk-QO3WOLUP.js": "820dd639c98642dcf5358189c2cf993bb6e8916b",
+    "/index.html": "14f5d76090a8191a1fcc2ca1d65cb3d6b19e89dc",
+    "/main-RNKYBTBZ.js": "25b61a0979c7073b564516daca4bdf95468a61d4",
+    "/manifest.webmanifest": "4a23522161253df255d1470104c7f4aa8079e19b",
+    "/media/material-icons-LEZCGFVT.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
+    "/polyfills-RX4V3J3S.js": "6b4c4ea33aa92bce0b91df442a680ed73e4303db",
+    "/styles-X3BQIFX5.css": "b2400cac617181eb3c9ebdda1f5f943f9c1ed929"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

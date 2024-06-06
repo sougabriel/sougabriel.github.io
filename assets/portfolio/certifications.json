@@ -1,0 +1,93 @@
+[
+	{
+		"url": "https://www.credly.com/badges/38f81308-4ea1-460f-bdcc-955aa2e258ce/linked_in_profile",
+		"name": "JavaScript Essentials 1",
+		"skills": ["Exceptions", "Functional Programming", "Debugging Code"]
+	},
+	{
+		"url": "https://www.credly.com/badges/726c1c66-ea8f-4a30-9d01-8911d931f6eb/linked_in_profile",
+		"name": "JavaScript Essentials 2",
+		"skills": [
+			"ExpressJS",
+			"Async/Await",
+			"NodeJS",
+			"Functional Programming",
+			"HTTP Server"
+		]
+	},
+	{
+		"url": "https://www.credly.com/badges/01c94dd7-ce43-433a-b340-be580453006c/linked_in_profile",
+		"name": "Python Essentials 1",
+		"skills": [
+			"Algorithmic Thinking",
+			"Analytical Thinking",
+			"Python Programming",
+			"Best Practices in Programming",
+			"Design, Develop, and Debug Scripts",
+			"Procedural Programming",
+			"Computer Programming"
+		]
+	},
+	{
+		"url": "https://www.credly.com/badges/01c94dd7-ce43-433a-b340-be580453006c/linked_in_profile",
+		"name": "Pyton Essentials 2",
+		"skills": [
+			"Object Oriented Programming",
+			"Polymorphism",
+			"Python",
+			"PIP"
+		]
+	},
+	{
+		"url": "https://ude.my/UC-cad2fb4e-a1f5-4283-89ad-706ca65e7c3d",
+		"name": "Angular 13 Formation - Building 7 Projects",
+		"skills": [
+			"Angular",
+			"API REST",
+			"Google Charts",
+			"MVVM",
+			"System Architecture",
+			"SCSS",
+			"Unit Testing"
+		]
+	},
+	{
+		"url": "https://ude.my/UC-cada99b0-4089-44f8-bfbc-6d6bce246db5",
+		"name": "Git and Github Essential for Developers",
+		"skills": [
+			"Git",
+			"Git Bash",
+			"GitFlow",
+			"GotHub",
+			"GitHub Pages",
+			"Teamwork",
+			"Open-Source Development",
+			"Open Source Licensing"
+		]
+	},
+	{
+		"url": "https://www.credly.com/badges/07c4a858-d15a-494b-a485-7fecf9d19195/linked_in_profile",
+		"name": "CCNA: Introduction to Networks",
+		"skills": [
+			"IP connectivity",
+			"Ethernet",
+			"IPv4 And IPv6 Addressing",
+			"Security Fundamentals",
+			"IP subnetting",
+			"Network Fundamentals",
+			"IP services",
+			"Sub-networks"
+		]
+	},
+	{
+		"url": "https://www.credly.com/badges/f5ab160e-e812-45fb-b272-9becf432b202/linked_in_profile",
+		"name": "Introduction to Cybersecurity",
+		"skills": [
+			"Cyber Best Practices",
+			"Cybersecurity",
+			"Network Vulnerabilities",
+			"Threat Detection",
+			"Privacy And Data Confidentiality"
+		]
+	}
+]
