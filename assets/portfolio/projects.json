@@ -29,7 +29,7 @@
 		"descrition": "A simple pixelart rhythm game of spaceships made with Javascript and JQuery.",
 		"keywords": ["Javascript", "JQuery", "CSS", "Web Game"],
 		"gitRepository": "https://github.com/sougabriel/spaceDagger-js",
-		"projectView": ""
+		"projectView": "https://sougabriel.github.io/projects/spacedagger"
 	},
 	{
 		"imgUrl": "/assets/images/projects/simple-calculator-js.png",
@@ -38,8 +38,7 @@
 		"descrition": "A simple calculator made with pure Javascript and not using eval function.",
 		"keywords": ["Javascript", "HTML", "CSS"],
 		"gitRepository": "https://github.com/sougabriel/simple-calculator-js",
-		"projectView": "",
-		"disable": false
+		"projectView": "https://sougabriel.github.io/projects/simplecalc"
 	},
 	{
 		"imgUrl": "/assets/images/projects/bmi-calculator.png",
@@ -48,7 +47,7 @@
 		"descrition": "A simple page for calculate BMI using AngularJS and Bootstrap.",
 		"keywords": ["Javascript", "AngularJS", "Bootstrap"],
 		"gitRepository": "https://github.com/sougabriel/BMI-CalculatorJs",
-		"projectView": ""
+		"projectView": "https://sougabriel.github.io/projects/bmicalc"
 	},
 	{
 		"imgUrl": "/assets/images/projects/directory-php.png",

@@ -1,0 +1,23 @@
+#space {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#space #ship {
+    min-height: 16vh;
+    min-width: 10vw;
+    max-height: 16vh;
+    max-width: 10vw;
+    transition: 0.5s;
+}
+
+#space #key {
+    min-height: 16vh;
+    min-width: 10vw;
+    max-height: 16vh;
+    max-width: 10vw;
+    transition: 0.5s;
+}

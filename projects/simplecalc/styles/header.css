@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+
+    background-color: var(--color-4);
+
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    height: 5vh;
+    width: 100%;
+}
+
+header h1 {
+    color: var(--color-2);
+}
+
+.alt-color {
+    color: var(--color-1);
+}

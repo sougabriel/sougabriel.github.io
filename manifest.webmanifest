@@ -1,7 +1,7 @@
 {
   "name": "sougabriel",
   "short_name": "sougabriel",
-  "theme_color": "#a700ab",
+  "theme_color": "#21004b",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
