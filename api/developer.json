@@ -1,0 +1,17 @@
+{
+    "fullName": "Gabriel de Souza",
+    "nickname": "",
+    "profileImageUrl": "/images/profile.webp",
+    "status": "Livin' on a coffee! ",
+    "statusEmoji": "☕",
+    "headline": "Developer - Typescript, NodeJs, Java and Python",
+    "about": "Highly motivated and eager to contribute my skills in a growth-oriented environment. I am proficient in Typescript, PHP, Java, and Python. I utilize frameworks like Angular and NestJS for streamlined full-stack development. ",
+    "pronouns": "He/Him",
+    "topSkills": [
+        "Angular",
+        "NestJs",
+        "S.O.L.I.D",
+        "Git",
+        "RESTful Web Service"
+    ]
+}
