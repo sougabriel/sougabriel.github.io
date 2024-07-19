@@ -1,0 +1,69 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    height: 90vh;
+    width: 100%;
+}
+
+#calc {
+    background-color: var(--color-4);
+    height: 80%;
+    width: 40%;
+    font-size: var(--font-xx);
+
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: stretch;
+}
+
+#calc #display {
+    width: 100%;
+    color: var(--color-2);
+    background-color: #000000;
+
+    font-family: Segmental;
+    letter-spacing: 2px;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+    padding-right: 20px;
+}
+
+#calc .bt {
+    width: 25%;
+
+    color: var(--color-1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#calc #empyt {
+    width: 25%;
+
+    color: var(--color-1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#calc .zero {
+    width: 50%;
+}
+
+#calc .bt:hover {
+    background-color:  brown;
+    border-radius: 20px;
+}

@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+:root {
+    --color-1: #FEFF88;
+    --color-2: #FE9F67;
+    --color-3: #F85A59;
+    --color-4: #7B2039;
+    
+    --font-x: 1.3rem;
+    --font-xx: 1.6rem;
+    --font-xxx: 2rem; 
+}
+
+html {
+    font-size: var(--font-x);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    height: 100dvh;
+    width: 100dvw;
+    color: var(--color-1);
+}
+
+.container {
+    height: 100%;
+    width: 80%;
+}
+
+@font-face {
+    font-family: Segmental;
+    src: local(Segmental), url(../assets/fonts/digital_display.ttf)
+}
