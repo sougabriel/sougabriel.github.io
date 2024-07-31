@@ -1,1 +1,0 @@
-import"./chunk-KFZQC3P5.js";var o=[{path:"",loadComponent:()=>import("./chunk-4L6XZEHT.js").then(t=>t.Projects),children:[{path:"list",title:"Projects List - Sou Gabriel",loadComponent:()=>import("./chunk-6FIOJIHV.js").then(t=>t.ProjectsList)},{path:"",redirectTo:"/projects/list",pathMatch:"full"}]},{path:"",redirectTo:"/projects",pathMatch:"full"}];export{o as routes};
